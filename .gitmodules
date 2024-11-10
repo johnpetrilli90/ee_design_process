@@ -1,0 +1,6 @@
+[submodule "ee_design_checklist"]
+	path = ee_design_checklist
+	url = https://github.com/johnpetrilli90/ee_design_checklist.git
+[submodule "ee_derating_process"]
+	path = ee_derating_process
+	url = https://github.com/johnpetrilli90/ee_derating_process.git
