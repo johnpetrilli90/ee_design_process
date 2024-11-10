@@ -4,3 +4,6 @@
 [submodule "ee_derating_process"]
 	path = ee_derating_process
 	url = https://github.com/johnpetrilli90/ee_derating_process.git
+[submodule "doc_naming_and_reservation"]
+	path = doc_naming_and_reservation
+	url = https://github.com/johnpetrilli90/doc_naming_and_reservation.git
